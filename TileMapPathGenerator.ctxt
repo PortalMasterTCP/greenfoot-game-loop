@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TileMapPathGenerator
+comment0.text=\n\ Random\ path\ generator\ for\ TileMap\n\ \n\ @author\ CatsaCode\n\ @version\ 1.0.0\n
+comment1.params=host\ size\ start\ target
+comment1.target=TileMapPathGenerator(TileMap,\ Vector2i,\ Vector2i,\ Vector2i)
+comment2.params=startX\ startY\ endX\ endY
+comment2.target=void\ generatePath(int,\ int,\ int,\ int)
+comment3.params=data
+comment3.target=void\ printTilemap(boolean[][])
+numComments=4

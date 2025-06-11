@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FPSDisplay
+comment0.text=\n\ Label\ that\ displays\ the\ current\ fps\ of\ the\ GameLoop\ ever\ second\n\ \n\ @author\ Portal\n\ @version\ 1.0.0\n
+comment1.params=size
+comment1.target=FPSDisplay(int)
+comment2.params=delta
+comment2.target=void\ update(double)
+numComments=3

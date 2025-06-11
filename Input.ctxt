@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ Static\ Input\ Map\ to\ replace\ Greenfoot's\ built-in\ input\ handling.\ For\ use\ as\ a\ Singleton.\n\ Updated\ as\ part\ of\ GameLoop's\ runLoop()\n\ \n\ @Author\ Portal\n\ @Version\ 1.0.1\n
+comment1.params=
+comment1.target=Input()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ postPhysicsUpdate()
+comment4.params=k
+comment4.target=boolean\ key(java.lang.String)
+comment5.params=k
+comment5.target=boolean\ keyEvent(java.lang.String)
+comment6.params=k
+comment6.target=boolean\ keyReleased(java.lang.String)
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CharacterEntity
+comment0.text=\n\ A\ GameEntity\ with\ added\ functionality,\ including\ Vector2\ position,\ a\ direction\ vector,\ \n\ and\ a\ velocity\ vector\n
+comment1.params=
+comment1.target=CharacterEntity()
+comment10.params=_y
+comment10.target=void\ setPosY(int)
+comment2.params=pos
+comment2.target=CharacterEntity(Vector2)
+comment3.params=
+comment3.target=void\ ready()
+comment4.params=
+comment4.target=void\ moveAndSlide()
+comment5.params=
+comment5.target=Vector2\ getPosition()
+comment6.params=pos
+comment6.target=void\ setPosition(Vector2)
+comment7.params=_x
+comment7.target=void\ setPosX(double)
+comment8.params=_x
+comment8.target=void\ setPosX(int)
+comment9.params=_y
+comment9.target=void\ setPosY(double)
+numComments=11

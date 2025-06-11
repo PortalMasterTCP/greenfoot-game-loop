@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileMap
+comment0.text=\n\ Map\ of\ Tiles\ for\ things\ like\ level\ design\n\ Please\ note\ the\ math\ is\ a\ little\ janky\!\n\ \n\ @author\ Portal\n\ @version\ 1.0.1\n
+comment1.params=_world\ _map
+comment1.target=TileMap(GameWorld,\ boolean[][])
+comment2.params=_world\ size\ start\ end
+comment2.target=TileMap(GameWorld,\ Vector2i,\ Vector2i,\ Vector2i)
+comment3.params=
+comment3.target=void\ drawMap()
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=redraw
+comment5.target=void\ clear(boolean)
+comment6.params=_m
+comment6.target=void\ setMap(boolean[][])
+numComments=7

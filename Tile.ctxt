@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\n\ Individual\ Tile\ for\ TileMap\n\ \n\ @author\ Portal\n\ @version\ 1.0.0\n
+comment1.params=_world\ width\ height
+comment1.target=Tile(GameWorld,\ int,\ int)
+comment2.params=width\ height
+comment2.target=void\ lazyInit(int,\ int)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=_x\ _y
+comment4.target=void\ moveToIndex(int,\ int)
+comment5.params=delta
+comment5.target=void\ _physicsProcess(double)
+numComments=6

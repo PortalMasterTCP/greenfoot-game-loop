@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Example\ use\ of\ GameEntity/GameLoop/etc\n\ \n\ @author\ Portal\n\ @version\ 1.0.0\n
+comment1.params=
+comment1.target=Player()
+comment2.params=pos
+comment2.target=Player(Vector2)
+comment3.params=delta
+comment3.target=void\ _physicsProcess(double)
+numComments=4
